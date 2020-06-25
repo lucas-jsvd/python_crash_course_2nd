@@ -1,0 +1,7 @@
+numero_oito = (5 + 3)
+print(numero_oito)
+numero_oito = (11 - 3)
+print(numero_oito)
+numero_oito = (16/2)
+print(numero_oito)
+numero_oito = (4 * 2)
