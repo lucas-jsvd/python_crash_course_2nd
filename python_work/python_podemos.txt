@@ -1,0 +1,5 @@
+Em Python nós podemos interar de forma facil.
+Em Python nós podemos abrir arquivos de forma simples.
+Em Python nós podemos utilizar bibliotecas maravilhosas.
+Em Python nós podemos usar as compressões de lista.
+Em Python nós podemos lidar com Classe de forma intuitiva.
